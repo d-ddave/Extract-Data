@@ -1,8 +1,3 @@
-# hello-world
-new repository
+# Knowledge 
 
-Hello Guys!
-
-I am a professional data extraction lead and i even like javascript.
-making sure everything works smooth.
-
+I have added two files that i have scraped the data
